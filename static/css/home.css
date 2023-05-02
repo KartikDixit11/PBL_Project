@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+li{
+    padding:10px;
+}
+li:hover{
+    color:blue;
+}
+#r4{
+    position: relative;
+    left:1023px;
+}
+#i1{
+    background-color: black;
+    border:2px solid white;
+    color:white;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
